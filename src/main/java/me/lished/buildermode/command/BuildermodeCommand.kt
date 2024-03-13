@@ -16,6 +16,7 @@ class BuildermodeCommand : CommandExecutor {
             BuildermodeManager.builders.add(player)
             player.sendMessage("Builder mode enabled.")
         }
+        return false
     }
 
 }
