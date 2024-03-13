@@ -1,0 +1,4 @@
+name: BuilderMode
+version: '${version}'
+main: me.lished.buildermode.BuilderMode
+api-version: '1.20'
